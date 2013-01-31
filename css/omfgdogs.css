@@ -1,0 +1,23 @@
+
+body {
+background-image: url(../assets/omfgdogs.gif);
+
+}
+p.pos_fixed {
+position:fixed;
+bottom: 50px;
+right: 50px;
+font: 24px;
+
+}
+
+p {
+font-family: Helvetica;
+font-size: 40px;
+
+}
+
+a:link {color: #000000; text-decoration: underline; }
+a:active {color: #0000ff; text-decoration: underline; }
+a:visited {color: #008000; text-decoration: underline; }
+a:hover {color: #ff0000; text-decoration: none; }
